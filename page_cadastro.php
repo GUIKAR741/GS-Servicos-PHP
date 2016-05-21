@@ -4,25 +4,29 @@
         <div class="row">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <form action="" method="post">
+                    <form action="" id="formCadastro" method="post">
                         <div class="col-lg-6">
                             <fieldset>
                                 <legend>Dados Pessoais</legend>
                                 <div class="form-group">
-                                    <label for="inp-nome">Nome:</label>
-                                    <input type="text" id="inp-nome" class="form-control" name="nome">
+                                    <label for="nome">Nome:</label>
+                                    <input type="text" id="nome" class="form-control" name="nome"
+                                    placeholder="Digite seu Nome" required>
                                 </div>
                                 <div class="form-group">
-                                    <label for="inp-dn">Data de Nascimento:</label>
-                                    <input type="text" id="inp-dn" class="form-control" name="dn">
+                                    <label for="dn">Data de Nascimento:</label>
+                                    <input type="text" id="dn" class="form-control" name="dn"
+                                    placeholder="Digite sua Data de Nascimento" required>
                                 </div>
                                 <div class="form-group">
-                                    <label for="inp-cpf">CPF:</label>
-                                    <input type="text" id="inp-cpf" class="form-control" name="cpf">
+                                    <label for="cpf">CPF:</label>
+                                    <input type="text" id="cpf" class="form-control" name="cpf"
+                                    placeholder="Digite seu CPF" required>
                                 </div>
                                 <div class="form-group">
-                                    <label for="inp-site">Site:</label>
-                                    <input type="text" id="inp-site" class="form-control" name="site">
+                                    <label for="site">Site:</label>
+                                    <input type="text" id="site" class="form-control" name="site"
+                                    placeholder="Digite a URL do seu Site" >
                                 </div>
                             </fieldset>
                         </div>
@@ -30,20 +34,23 @@
                             <fieldset>
                                 <legend>Dados de Login</legend>
                                 <div class="form-group">
-                                    <label for="inp-email">E-mail:</label>
-                                    <input type="text" id="inp-email" class="form-control" name="email" >
+                                    <label for="email">E-mail:</label>
+                                    <input type="text" id="email" class="form-control" name="email"
+                                    placeholder="Digite seu E-mail" required>
                                 </div>
                                 <div class="form-group">
-                                    <label for="inp-senha">Senha:</label>
-                                    <input type="password" id="inp-senha" class="form-control" name="senha">
+                                    <label for="senha">Senha:</label>
+                                    <input type="password" id="senha" class="form-control" name="senha"
+                                    placeholder="Digite sua Senha" required>
                                 </div>
                                 <div class="form-group">
-                                    <label for="inp-csenha">Confirmar senha:</label>
-                                    <input type="password" id="inp-csenha" class="form-control" name="csenha">
+                                    <label for="csenha">Confirmar senha:</label>
+                                    <input type="password" id="csenha" class="form-control" name="csenha"
+                                    placeholder="Digite Novamente sua Senha" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="checkbox" id="inp-robo" aria-label="" >
-                                    <label for="inp-robo">Marque para provar que não é um Robo</label>
+                                    <input type="checkbox" name="robo" id="robo" aria-label="" required>
+                                    <label for="robo">Marque para provar que não é um Robo</label>
                                 </div>
                                 <div class="form-group">
                                     <button type="submit" class="btn btn-primary">Cadastrar</button>

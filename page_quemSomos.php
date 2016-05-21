@@ -27,19 +27,19 @@
             </div>
             <div class="col-lg-4">
                 <div class="thumbnail">
-                    <a class="disabled" href="http://www.hostinger.com.br/">
+                    <a class="disabled" href="http://www.hostinger.com.br/" target="_blank">
                         <img src="img/hostinger.png" alt="Hostinger" title="Hostinger">
                     </a>
                     <h4 class="cent pm0">Hospedado por Hostinger</h4>
                 </div>
                 <div class="thumbnail">
-                    <a href="https://github.com/GUIKAR741/GS-Servicos">
+                    <a href="https://github.com/GUIKAR741/GS-Servicos-PHP" target="_blank">
                         <img src="img/github.jpeg" alt="GitHub" title="GitHub">
                     </a>
                     <h4 class="cent pm0">Codigo Fonte Disponivel em GitHub</h4>
                 </div>
                 <div class="thumbnail">
-                    <a href="https://git-scm.com/">
+                    <a href="https://git-scm.com/" target="_blank">
                         <img class="git" src="img/git.png" alt="GIT" title="GIT">
                     </a>
                     <h4 class="cent pm0">Controle de Vesão por Git</h4>

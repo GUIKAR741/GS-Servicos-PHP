@@ -1,2 +1,7 @@
 V1.0
-Codigo padrão Site GS Servicos
+Codigo padrao Site GS Servicos
+
+v1.5
+adicionado e excluido arquivos .js e .css
+criado mask e validacao no arquivo page_cadastro.php
+e mais varias modificacoes

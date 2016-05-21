@@ -19,11 +19,13 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="inp-nome">Nome: </label>
-                                    <input type="text" id="inp-nome" class="form-control">
+                                    <input type="text" id="inp-nome" class="form-control"
+                                    placeholder="Digite seu Nome de Usuario">
                                 </div>
                                 <div class="form-group">
                                     <label for="inp-email" class="control-label">E-mail: </label>
-                                    <input type="text" class="form-control" id="inp-email" name="email">
+                                    <input type="text" class="form-control" id="inp-email" name="email"
+                                    placeholder="Digite seu E-mail">
                                 </div>
                                 <div class="form-group cent">
                                     <button type="submit" class="btn btn-primary">Enviar</button>

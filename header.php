@@ -4,10 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo gera_titulos();?></title>
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <script src="js/jquery2.2.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.mask.js"></script>
+    <script src="js/jquery.validate.js"></script>
+    <script src="js/util.validate.js"></script>
+    <script src="js/efeito.js"></script>
     <link rel="shortcut icon" href="img/logomenor.jpg" type="image/ico">
 </head>
 <body class="cor">
@@ -15,7 +19,7 @@
     <!--Menu-->
     <div class="row">
         <div class="col-lg-12">
-            <nav class="navbar navbar-default navi">
+            <nav class="navbar navbar-default container navbar-fixed-top navi">
                 <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">

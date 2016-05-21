@@ -11,11 +11,13 @@
                                 <legend><h2 class="cent pm0">Login</h2></legend>
                                 <div class="form-group">
                                     <label for="inp-email" class="control-label">E-mail: </label>
-                                    <input type="text" class="form-control" id="inp-email" name="email">
+                                    <input type="text" class="form-control" id="inp-email" name="email"
+                                           placeholder="Digite seu E-mail">
                                 </div>
                                 <div class="form-group">
                                     <label for="inp-senha">Senha: </label>
-                                    <input type="password" id="inp-senha" class="form-control">
+                                    <input type="password" id="inp-senha" class="form-control"
+                                    placeholder="Digite sua Senha">
                                 </div>
                                 <div class="form-group">
                                     <input type="checkbox" id="inp-lembrar" aria-label="" >
