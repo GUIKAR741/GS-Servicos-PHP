@@ -8,18 +8,13 @@
     <link href="css/style.css" rel="stylesheet">
     <script src="js/jquery2.2.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.mask.js"></script>
-    <script src="js/jquery.validate.js"></script>
-    <script src="js/util.validate.js"></script>
-    <script src="js/efeito.js"></script>
-    <link rel="shortcut icon" href="img/logomenor.jpg" type="image/ico">
+    <link rel="shortcut icon" href="img/logo/logomenor.jpg" type="image/ico">
 </head>
 <body class="cor">
-<div class="container">
     <!--Menu-->
     <div class="row">
         <div class="col-lg-12">
-            <nav class="navbar navbar-default container navbar-fixed-top navi">
+            <nav class="navbar navbar-default navbar-fixed-top navi">
                 <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
@@ -69,12 +64,13 @@
         </div>
     </div>
     <!--Fecha Menu-->
+    <div class="container pad">
     <!--Logo&Pesquiza-->
     <div class="row">
         <div class="col-lg-12">
             <div class="row">
                 <div class="col-lg-9">
-                    <img class="img" src="img/logo.jpg" alt="logo">
+                    <img class="img" src="img/logo/logo.jpg" alt="logo">
                 </div>
                 <div class="col-lg-3 busca">
                     <form class="navbar-form navbar-left" role="search">

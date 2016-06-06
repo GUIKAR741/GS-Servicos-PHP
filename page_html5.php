@@ -5,7 +5,7 @@
             <div class="col-lg-8">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <img src="img/html5-banner.png" class="i100" alt="HTML5" title="HTML%">
+                        <img src="img/rodape/html5-banner.png" class="i100" alt="HTML5" title="HTML%">
                         <h1 class="cent pm0">HTML5</h1>
                         <p>
                             HTML5 (Hypertext Markup Language, versão 5) é uma linguagem para estruturação e apresentação

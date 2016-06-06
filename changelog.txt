@@ -5,3 +5,9 @@ v1.5
 adicionado e excluido arquivos .js e .css
 criado mask e validacao no arquivo page_cadastro.php
 e mais varias modificacoes
+
+v2.0
+validação no arquivo page_contato.php
+organizacao da pasta imagens
+criado carrousel(slideshow) no index
+alguns ajustes

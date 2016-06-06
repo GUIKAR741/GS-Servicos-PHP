@@ -1,5 +1,5 @@
 <?php
-require_once('funcoes.php');
-require_once('header.php');
+require_once('include/funcoes.php');
+require_once('include/header.php');
 carrega_pagina();
-require_once('footer.php');
+require_once('include/footer.php');

@@ -4,7 +4,7 @@
         <div class="row rodapei">
             <div class="col-lg-3">
                 <div class="thumbnail">
-                    <img src="img/html5.png" alt="HTML5" title="HTML5">
+                    <img src="img/rodape/html5.png" alt="HTML5" title="HTML5">
                     <div class="caption">
                         <h3 class="cent">HTML5</h3>
                         <p>HTML5 (Hypertext Markup Language, versão 5) é uma linguagem para estruturação e apresentação
@@ -15,7 +15,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="thumbnail">
-                    <img src="img/css3.jpg" alt="CSS3" title="CSS3">
+                    <img src="img/rodape/css3.jpg" alt="CSS3" title="CSS3">
                     <div class="caption">
                         <h3 class="cent">CSS3</h3>
                         <p>CSS3 (Cascading Style Sheets, versão 3) é uma linguagem de folhas de estilo utilizada para
@@ -26,7 +26,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="thumbnail">
-                    <img src="img/js.png" alt="JavaScript" title="JavaScript">
+                    <img src="img/rodape/js.png" alt="JavaScript" title="JavaScript">
                     <div class="caption">
                         <h3 class="cent">JS</h3>
                         <p>JavaScript é uma linguagem de programação interpretada. Foi originalmente implementada para que
@@ -38,7 +38,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="thumbnail">
-                    <img id="php" src="img/phpe.gif" alt="PHP" title="PHP">
+                    <img id="php" src="img/rodape/phpe.gif" alt="PHP" title="PHP">
                     <div class="caption">
                         <h3 class="cent">PHP</h3>
                         <p>PHP (Hypertext Preprocessor) é uma linguagem interpretada livre, usada originalmente apenas

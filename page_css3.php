@@ -5,7 +5,7 @@
             <div class="col-lg-8">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <img src="img/css3-banner.png" class="i100" alt="CSS3" title="CSS3">
+                        <img src="img/rodape/css3-banner.png" class="i100" alt="CSS3" title="CSS3">
                         <h1 class="cent pm0">CSS3</h1>
                         <p>
                             Cascading Style Sheets (CSS) é uma linguagem de folhas de estilo utilizada para definir a

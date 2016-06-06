@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/mysql-videoAula.jpg" class="i100" alt="Video Aula de MySQL"
+                            <img src="img/videoAula/mysql-videoAula.jpg" class="i100" alt="Video Aula de MySQL"
                                  title="Video Aula de MySQL">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de MySQL</h3>
@@ -35,7 +35,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/java-videoAula.jpg" class="i100" alt="Video Aula de Java"
+                            <img src="img/videoAula/java-videoAula.jpg" class="i100" alt="Video Aula de Java"
                                  title="Video Aula de Java">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de Java</h3>
@@ -48,7 +48,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/algoritmos-videoAula.png" class="i100" alt="Video Aula de Algoritmos"
+                            <img src="img/videoAula/algoritmos-videoAula.png" class="i100" alt="Video Aula de Algoritmos"
                                  title="Video Aula de Algoritmos">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de Algoritmos</h3>
@@ -63,7 +63,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/mysql-videoAula.jpg" class="i100" alt="Video Aula de MySQL"
+                            <img src="img/videoAula/mysql-videoAula.jpg" class="i100" alt="Video Aula de MySQL"
                                  title="Video Aula de MySQL">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de MySQL</h3>
@@ -76,7 +76,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/java-videoAula.jpg" class="i100" alt="Video Aula de Java"
+                            <img src="img/videoAula/java-videoAula.jpg" class="i100" alt="Video Aula de Java"
                                  title="Video Aula de Java">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de Java</h3>
@@ -89,7 +89,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/algoritmos-videoAula.png" class="i100" alt="Video Aula de Algoritmos"
+                            <img src="img/videoAula/algoritmos-videoAula.png" class="i100" alt="Video Aula de Algoritmos"
                                  title="Video Aula de Algoritmos">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de Algoritmos</h3>
@@ -104,7 +104,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/mysql-videoAula.jpg" class="i100" alt="Video Aula de MySQL"
+                            <img src="img/videoAula/mysql-videoAula.jpg" class="i100" alt="Video Aula de MySQL"
                                  title="Video Aula de MySQL">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de MySQL</h3>
@@ -117,7 +117,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/java-videoAula.jpg" class="i100" alt="Video Aula de Java"
+                            <img src="img/videoAula/java-videoAula.jpg" class="i100" alt="Video Aula de Java"
                                  title="Video Aula de Java">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de Java</h3>
@@ -130,7 +130,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/algoritmos-videoAula.png" class="i100" alt="Video Aula de Algoritmos"
+                            <img src="img/videoAula/algoritmos-videoAula.png" class="i100" alt="Video Aula de Algoritmos"
                                  title="Video Aula de Algoritmos">
                             <div class="caption">
                                 <h3 class="cent pm0">Video Aula de Algoritmos</h3>

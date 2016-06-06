@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/arduino-apostilha.jpeg" class="i100" alt="Apostilha de Arduino"
+                            <img src="img/apostilha/arduino-apostilha.jpeg" class="i100" alt="Apostilha de Arduino"
                                  title="Apostilha de Arduino">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de Arduino</h3>
@@ -35,7 +35,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/php-mysql-apostilha.png" class="i100" alt="Apostilha PHP e MySQL"
+                            <img src="img/apostilha/php-mysql-apostilha.png" class="i100" alt="Apostilha PHP e MySQL"
                                  title="Apostilha de PHP e MySql">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de PHP e MySQL</h3>
@@ -48,7 +48,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/photoshp-apostilha.png" class="i100" alt="Apostilha de Photoshop"
+                            <img src="img/apostilha/photoshp-apostilha.png" class="i100" alt="Apostilha de Photoshop"
                                  title="Apostilha de Photoshop">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de Photoshop</h3>
@@ -63,7 +63,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/arduino-apostilha.jpeg" class="i100" alt="Apostilha de Arduino"
+                            <img src="img/apostilha/arduino-apostilha.jpeg" class="i100" alt="Apostilha de Arduino"
                                  title="Apostilha de Arduino">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de Arduino</h3>
@@ -76,7 +76,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/php-mysql-apostilha.png" class="i100" alt="Apostilha PHP e MySQL"
+                            <img src="img/apostilha/php-mysql-apostilha.png" class="i100" alt="Apostilha PHP e MySQL"
                                  title="Apostilha de PHP e MySql">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de PHP e MySQL</h3>
@@ -89,7 +89,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/photoshp-apostilha.png" class="i100" alt="Apostilha de Photoshop"
+                            <img src="img/apostilha/photoshp-apostilha.png" class="i100" alt="Apostilha de Photoshop"
                                  title="Apostilha de Photoshop">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de Photoshop</h3>
@@ -104,7 +104,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/arduino-apostilha.jpeg" class="i100" alt="Apostilha de Arduino"
+                            <img src="img/apostilha/arduino-apostilha.jpeg" class="i100" alt="Apostilha de Arduino"
                                  title="Apostilha de Arduino">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de Arduino</h3>
@@ -117,7 +117,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/php-mysql-apostilha.png" class="i100" alt="Apostilha PHP e MySQL"
+                            <img src="img/apostilha/php-mysql-apostilha.png" class="i100" alt="Apostilha PHP e MySQL"
                                  title="Apostilha de PHP e MySql">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de PHP e MySQL</h3>
@@ -130,7 +130,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/photoshp-apostilha.png" class="i100" alt="Apostilha de Photoshop"
+                            <img src="img/apostilha/photoshp-apostilha.png" class="i100" alt="Apostilha de Photoshop"
                                  title="Apostilha de Photoshop">
                             <div class="caption">
                                 <h3 class="cent pm0">Apostilha de Photoshop</h3>

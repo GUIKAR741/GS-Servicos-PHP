@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/html-css-curso.jpg" class="i100" alt="Curso de HTML e CSS"
+                            <img src="img/curso/html-css-curso.jpg" class="i100" alt="Curso de HTML e CSS"
                                  title="Curso de HTML e CSS">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de HTML E CSS</h3>
@@ -35,7 +35,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/git-curso.jpg" class="i100" alt="Curso de Git" title="Curso de Git">
+                            <img src="img/curso/git-curso.jpg" class="i100" alt="Curso de Git" title="Curso de Git">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de GIT</h3>
                                 <p>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/php-curso.jpg" class="i100" alt="Curso de PHP" title="Curso de PHP">
+                            <img src="img/curso/php-curso.jpg" class="i100" alt="Curso de PHP" title="Curso de PHP">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de PHP</h3>
                                 <p>
@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/html-css-curso.jpg" class="i100" alt="Curso de HTML e CSS"
+                            <img src="img/curso/html-css-curso.jpg" class="i100" alt="Curso de HTML e CSS"
                                  title="Curso de HTML e CSS">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de HTML E CSS</h3>
@@ -74,7 +74,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/git-curso.jpg" class="i100" alt="Curso de Git" title="Curso de Git">
+                            <img src="img/curso/git-curso.jpg" class="i100" alt="Curso de Git" title="Curso de Git">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de GIT</h3>
                                 <p>
@@ -86,7 +86,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/php-curso.jpg" class="i100" alt="Curso de PHP" title="Curso de PHP">
+                            <img src="img/curso/php-curso.jpg" class="i100" alt="Curso de PHP" title="Curso de PHP">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de PHP</h3>
                                 <p>
@@ -100,7 +100,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/html-css-curso.jpg" class="i100" alt="Curso de HTML e CSS"
+                            <img src="img/curso/html-css-curso.jpg" class="i100" alt="Curso de HTML e CSS"
                                  title="Curso de HTML e CSS">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de HTML E CSS</h3>
@@ -113,7 +113,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/git-curso.jpg" class="i100" alt="Curso de Git" title="Curso de Git">
+                            <img src="img/curso/git-curso.jpg" class="i100" alt="Curso de Git" title="Curso de Git">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de GIT</h3>
                                 <p>
@@ -125,7 +125,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/php-curso.jpg" class="i100" alt="Curso de PHP" title="Curso de PHP">
+                            <img src="img/curso/php-curso.jpg" class="i100" alt="Curso de PHP" title="Curso de PHP">
                             <div class="caption">
                                 <h3 class="cent pm0">Curso de PHP</h3>
                                 <p>

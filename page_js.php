@@ -5,7 +5,7 @@
             <div class="col-lg-8">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <img src="img/js-banner.png" class="i100" alt="JavaScript" title="JavaScript">
+                        <img src="img/rodape/js-banner.png" class="i100" alt="JavaScript" title="JavaScript">
                         <h1 class="cent pm0">JavaScript</h1>
                         <p>
                             JavaScript é uma linguagem de programação interpretada . Foi originalmente implementada

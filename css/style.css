@@ -6,12 +6,14 @@
 .pm0{padding: 0px;margin: 0px;}
 /*NÃO REUTILIZAVEIS*/
 #formCadastro span{color: #f00;}
+#formCont span{color: #f00;}
+.carrosel {margin-bottom: 20px;}
 .list-group-item.active{background-color:#9397ad;border-color:#9397ad;}
 .list-group-item.active:hover{background-color:#625d63;border-color:#625d63;}
 .cor{background-color: #e9e9e9;}
 .busca{padding-top: 16px;}
 .navi{background-color: #e1e1e1;}
-body { padding-top: 50px; }
+body { padding-top: 50px;}
 /*rodape-rodape base*/
 .rodapei img{width: 200px;height: 242px;}
 .rodapei #php{width: 100%;height: 250px;}

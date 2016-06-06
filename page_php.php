@@ -5,7 +5,7 @@
             <div class="col-lg-8">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <img src="img/php-banner.png" class="i100" alt="PHP" title="PHP">
+                        <img src="img/rodape/php-banner.png" class="i100" alt="PHP" title="PHP">
                         <h1 class="cent pm0">PHP</h1>
                         <p>
                             PHP (um acrônimo recursivo para "PHP: Hypertext Preprocessor", originalmente Personal

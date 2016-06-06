@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/netbeans-ide.jpg" class="i100" alt="NetBeans IDE"
+                            <img src="img/ide/netbeans-ide.jpg" class="i100" alt="NetBeans IDE"
                                  title="NetBeans IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">NetBeans IDE</h3>
@@ -35,7 +35,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/eclipse-ide.jpg" class="i100" alt="Eclipse IDE"
+                            <img src="img/ide/eclipse-ide.jpg" class="i100" alt="Eclipse IDE"
                                  title="Eclipse IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">Eclipse IDE</h3>
@@ -48,7 +48,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/codeblocks-ide.jpg" class="i100" alt="CodeBlocks IDE"
+                            <img src="img/ide/codeblocks-ide.jpg" class="i100" alt="CodeBlocks IDE"
                                  title="CodeBlocks IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">CodeBlocks IDE</h3>
@@ -63,7 +63,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/netbeans-ide.jpg" class="i100" alt="NetBeans IDE"
+                            <img src="img/ide/netbeans-ide.jpg" class="i100" alt="NetBeans IDE"
                                  title="NetBeans IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">NetBeans IDE</h3>
@@ -76,7 +76,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/eclipse-ide.jpg" class="i100" alt="Eclipse IDE"
+                            <img src="img/ide/eclipse-ide.jpg" class="i100" alt="Eclipse IDE"
                                  title="Eclipse IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">Eclipse IDE</h3>
@@ -89,7 +89,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/codeblocks-ide.jpg" class="i100" alt="CodeBlocks IDE"
+                            <img src="img/ide/codeblocks-ide.jpg" class="i100" alt="CodeBlocks IDE"
                                  title="CodeBlocks IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">CodeBlocks IDE</h3>
@@ -104,7 +104,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/netbeans-ide.jpg" class="i100" alt="NetBeans IDE"
+                            <img src="img/ide/netbeans-ide.jpg" class="i100" alt="NetBeans IDE"
                                  title="NetBeans IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">NetBeans IDE</h3>
@@ -117,7 +117,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/eclipse-ide.jpg" class="i100" alt="Eclipse IDE"
+                            <img src="img/ide/eclipse-ide.jpg" class="i100" alt="Eclipse IDE"
                                  title="Eclipse IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">Eclipse IDE</h3>
@@ -130,7 +130,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="thumbnail">
-                            <img src="img/codeblocks-ide.jpg" class="i100" alt="CodeBlocks IDE"
+                            <img src="img/ide/codeblocks-ide.jpg" class="i100" alt="CodeBlocks IDE"
                                  title="CodeBlocks IDE">
                             <div class="caption">
                                 <h3 class="cent pm0">CodeBlocks IDE</h3>
