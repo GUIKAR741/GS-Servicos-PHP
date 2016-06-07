@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa9a2fde-7494-4297-973c-6e239ac78a6b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/funcoes.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/algoritmos-videoAula.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/arduino-apostilha.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/codeblocks-ide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/css3-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/css3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eclipse-ide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/git-curso.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/git.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/github.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hostinger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/html-css-curso.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/html-css-js-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/html-css-js-php-mysql-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/html5-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/html5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/java-videoAula.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/js-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/js.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/linguagens-de-programacao-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/linguagens-de-programacao-out-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logomenor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mysql-videoAula.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/netbeans-ide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photoshp-apostilha.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/php-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/php-curso.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/php-mysql-apostilha.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phpe.gif" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/changelog.txt" afterPath="$PROJECT_DIR$/changelog.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/efeito.js" afterPath="$PROJECT_DIR$/js/efeito.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_apostilhas.php" afterPath="$PROJECT_DIR$/page_apostilhas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_cadastro.php" afterPath="$PROJECT_DIR$/page_cadastro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_contato.php" afterPath="$PROJECT_DIR$/page_contato.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_css3.php" afterPath="$PROJECT_DIR$/page_css3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_cursos.php" afterPath="$PROJECT_DIR$/page_cursos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_home.php" afterPath="$PROJECT_DIR$/page_home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_html5.php" afterPath="$PROJECT_DIR$/page_html5.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_ide.php" afterPath="$PROJECT_DIR$/page_ide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_js.php" afterPath="$PROJECT_DIR$/page_js.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_php.php" afterPath="$PROJECT_DIR$/page_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_quemSomos.php" afterPath="$PROJECT_DIR$/page_quemSomos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_servicos.php" afterPath="$PROJECT_DIR$/page_servicos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page_videoAulas.php" afterPath="$PROJECT_DIR$/page_videoAulas.php" />
-    </list>
+    <list default="true" id="aa9a2fde-7494-4297-973c-6e239ac78a6b" name="Default" comment="" />
     <ignored path="GSServicos-php.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -107,8 +55,8 @@
       <file leaf-file-name="changelog.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/changelog.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36956522">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.24637681">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -314,10 +262,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="21" width="1344" height="690" extended-state="1" />
-    <editor active="true" />
+    <frame x="10" y="21" width="1344" height="690" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -702,8 +650,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/changelog.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36956522">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.24637681">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
