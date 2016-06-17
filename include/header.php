@@ -13,7 +13,7 @@
 <body class="cor">
     <!--Menu-->
     <div class="row">
-        <div class="col-lg-12">
+
             <nav class="navbar navbar-default navbar-fixed-top navi">
                 <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
@@ -61,7 +61,7 @@
                     </div><!-- /.navbar-collapse -->
                 </div><!-- /.container-fluid -->
             </nav>
-        </div>
+
     </div>
     <!--Fecha Menu-->
     <div class="container pad">
@@ -69,21 +69,18 @@
     <div class="row">
         <div class="col-lg-12">
             <div class="row">
-                <div class="col-lg-9">
-                    <img class="img" src="img/logo/logo.jpg" alt="logo">
+                <div class="col-lg-3">
+                    <img class="img" src="img/logo/logo.png" alt="logo">
                 </div>
-                <div class="col-lg-3 busca">
-                    <form class="navbar-form navbar-left" role="search">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Pesquise...">
-                                        <span class="input-group-btn">
-                                            <button class="btn btn-primary" type="submit">
-                                                <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
-                                            </button>
-                                        </span>
-                        </div><!-- /input-group -->
-                    </form>
-
+                <div class="col-lg-9 busca">
+                    <div class="cent">
+                        <h1 class="pm0 cent texto">
+                            GS SERVIÇOS
+                        </h1>
+                        <h1 class="pm0 cent texto">
+                            Soluções para Web
+                        </h1>
+                    </div>
                 </div>
             </div>
         </div>

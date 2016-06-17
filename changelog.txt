@@ -11,3 +11,7 @@ validação no arquivo page_contato.php
 organizacao da pasta imagens
 criado carrousel(slideshow) no index
 alguns ajustes
+
+v2.3
+modificação do arquivo header, alterado logo
+correção de erros de tamanho
