@@ -18,3 +18,8 @@ correcao de erros de tamanho
 
 v2.5
 correcao de validacao no cadastro e contato
+
+v2.7
+melhoria do home/index
+validacao recuperacao de senha
+envio de email para contato

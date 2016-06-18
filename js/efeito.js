@@ -43,12 +43,12 @@ $().ready(function() {
             },
             senha: {
                 required: " * Digite sua Senha!",
-                minlength:" * Senha Deve Ter no minimo 6 caracteres!"
+                minlength:" * Deve Ter no Minimo 6 Caracteres!"
             },
             csenha: {
                 required: " * Confirme sua Senha!",
-                minlength:" * Senha Deve Ter no minimo 6 caracteres!",
-                equalTo:" * Senha não são iguais!"
+                minlength:" * Deve Ter no Minimo 6 Caracteres!",
+                equalTo:" * Senha não Coincidem!"
             },
             robo: {
                 required: " * Marque para continuar!"
@@ -90,7 +90,36 @@ $().ready(function() {
                 required: " * Digite a sua Mensagem!"
             },
             email:{
-                required: " * Digite o seu email!",
+                required: " * Digite o seu E-mail!",
+                email: " * Digite um E-mail válido!"
+            }
+        },
+        errorPlacement: function(error, element){
+            $(element)
+                .closest("form")
+                .find("label[for='"+element.attr("id")+"']")
+                .append(error);
+        },
+        errorElement: "span"
+    });
+
+    $("#formSenha").validate({
+        rules:{
+            nome:{
+                required:true,
+                minlength:2
+            },
+            email:{
+                required: true, email: true
+            }
+        },
+        messages:{
+            nome: {
+                required: " * Digite o seu Nome!",
+                minlength:" * Deve ter no minimo 2 Letras!"
+            },
+            email:{
+                required: " * Digite o seu E-mail!",
                 email: " * Digite um E-mail válido!"
             }
         },

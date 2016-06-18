@@ -7,6 +7,8 @@
 /*NÃO REUTILIZAVEIS*/
 #formCadastro span{color: #f00;}
 #formCont span{color: #f00;}
+#formSenha span{color: #f00;}
+.tumb{border: none; background-color: #e9e9e9;}
 .carrosel {margin-bottom: 20px;}
 .list-group-item.active{background-color:#9397ad;border-color:#9397ad;}
 .list-group-item.active:hover{background-color:#625d63;border-color:#625d63;}

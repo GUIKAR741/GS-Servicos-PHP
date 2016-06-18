@@ -6,7 +6,7 @@
             <div class="col-lg-4">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <form class="" action="" method="post" >
+                        <form id="formSenha" action="" method="post" >
                             <fieldset>
                                 <legend><h2 class="cent pm0">Esqueceu a Senha?</h2></legend>
                                 <div class="cent">
@@ -18,13 +18,13 @@
                                     </p>
                                 </div>
                                 <div class="form-group">
-                                    <label for="inp-nome">Nome: </label>
-                                    <input type="text" id="inp-nome" class="form-control"
+                                    <label for="nome">Nome: </label>
+                                    <input type="text" id="nome" name="nome" class="form-control"
                                     placeholder="Digite seu Nome de Usuario">
                                 </div>
                                 <div class="form-group">
-                                    <label for="inp-email" class="control-label">E-mail: </label>
-                                    <input type="text" class="form-control" id="inp-email" name="email"
+                                    <label for="email" class="control-label">E-mail: </label>
+                                    <input type="text" class="form-control" id="email" name="email"
                                     placeholder="Digite seu E-mail">
                                 </div>
                                 <div class="form-group cent">
@@ -32,7 +32,7 @@
                                 </div>
                                 <div class="cent">
                                     <p>
-                                        Ápos Clicar em Enviar Cheque seu E-mail
+                                        Ápos em Enviar Cheque seu E-mail
                                     </p>
                                 </div>
                             </fieldset>
@@ -44,4 +44,5 @@
         </div>
     </div>
 </div>
+<?php include_once("include/js.php");?>
 <!--Conteudo-->

@@ -73,12 +73,12 @@ endif;
                                             $site=isset($_POST['site'])?$_POST['site']:"";
                                             $ass=isset($_POST['assunto'])?$_POST['assunto']:"";
                                             $msg=isset($_POST['msg'])?$_POST['msg']:"";
-                                            $headers='<br>Para: '.$mail.
-                                                '<br>E-mail: '. $email .
-                                                '<br>Web-Site: '. $site .
-                                                '<br>Usuario: '. $nome .
-                                                '<br>X-Mailer: PHP/'.phpversion();
-                                            $msg="<h1>$ass</h1><br>".$msg.$headers;
+                                            $headers="\r\nPara: ".$mail.
+                                                "\r\nE-mail: ". $email .
+                                                "\r\nWeb-Site: ". $site .
+                                                "\r\nUsuario: ". $nome .
+                                                "\r\nX-Mailer: PHP/".phpversion();
+                                            $msg=$msg.$headers;
                                             if(@mail($mail,$ass,$msg)):
                                                 echo "<p>Email Enviado Com Sucesso!</p>";
                                             else:
