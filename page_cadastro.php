@@ -11,17 +11,17 @@
                                 <div class="form-group">
                                     <label for="nome">Nome:</label>
                                     <input type="text" id="nome" class="form-control" name="nome"
-                                    placeholder="Digite seu Nome" required>
+                                    placeholder="Digite seu Nome">
                                 </div>
                                 <div class="form-group">
                                     <label for="dn">Data de Nascimento:</label>
                                     <input type="text" id="dn" class="form-control" name="dn"
-                                    placeholder="Digite sua Data de Nascimento" required>
+                                    placeholder="Digite sua Data de Nascimento">
                                 </div>
                                 <div class="form-group">
                                     <label for="cpf">CPF:</label>
                                     <input type="text" id="cpf" class="form-control" name="cpf"
-                                    placeholder="Digite seu CPF" required>
+                                    placeholder="Digite seu CPF">
                                 </div>
                                 <div class="form-group">
                                     <label for="site">Site:</label>
@@ -36,20 +36,20 @@
                                 <div class="form-group">
                                     <label for="email">E-mail:</label>
                                     <input type="text" id="email" class="form-control" name="email"
-                                    placeholder="Digite seu E-mail" required>
+                                    placeholder="Digite seu E-mail">
                                 </div>
                                 <div class="form-group">
                                     <label for="senha">Senha:</label>
                                     <input type="password" id="senha" class="form-control" name="senha"
-                                    placeholder="Digite sua Senha" required>
+                                    placeholder="Digite sua Senha">
                                 </div>
                                 <div class="form-group">
                                     <label for="csenha">Confirmar senha:</label>
                                     <input type="password" id="csenha" class="form-control" name="csenha"
-                                    placeholder="Digite Novamente sua Senha" required>
+                                    placeholder="Digite Novamente sua Senha">
                                 </div>
                                 <div class="form-group">
-                                    <input type="checkbox" name="robo" id="robo" aria-label="" required>
+                                    <input type="checkbox" name="robo" id="robo" value="true" aria-label="">
                                     <label for="robo">Marque para provar que não é um Robo</label>
                                 </div>
                                 <div class="form-group">

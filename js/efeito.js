@@ -3,22 +3,25 @@ $(document).ready(function(){
     $('#dn').mask('99/99/9999');
     $('#cpf').mask('999.999.999-99', {reverse: true});
 });
-/////////////////VALIDAÇÃO Cadastro///////////
-/*$.validator.setDefaults({
-    submitHandler: function(){
-        alert("Dados preenchidos corretamente!");
-    }
-});*/
+//////////////VALIDAÇÃO////////////
 $().ready(function() {
-    var validator=$("#formCadastro").validate({
-        errorPlacement: function(error, element){
-            $(element)
-                .closest("form")
-                .find("label[for='"+element.attr("id")+"']")
-                .append(error);
-        },
-        errorElement: "span",
+    $("#formCadastro").validate({
         rules:{
+            dn:"required",
+            robo:"required",
+            nome:{
+                required:true,
+                minlength:2
+            },
+            senha:{
+                required:true,
+                minlength:6
+            },
+            csenha:{
+                required:true,
+                minlength:6,
+                equalTo:"#senha"
+            },
             email:{
                 required: true, email: true
             },
@@ -26,75 +29,77 @@ $().ready(function() {
                 required: true, cpf: 'both'
             }
         },
-        messages:{
+        messages: {
             nome: {
-                required: "Digite o seu Nome *"
+                required: " * Digite o seu Nome!",
+                minlength:" * Deve ter no minimo 2 Letras!"
             },
-            cpf:{
-                required: "Digite o seu CPF *",
-                cpf: "Digite um CPF válido! *"
+            cpf: {
+                required: " * Digite o seu CPF!",
+                cpf: " * Digite um CPF válido!"
             },
             dn: {
-                required: "Digite sua data de Nascimento *"
+                required: " * Digite sua data de Nascimento!"
             },
             senha: {
-                required: "Digite sua Senha *"
+                required: " * Digite sua Senha!",
+                minlength:" * Senha Deve Ter no minimo 6 caracteres!"
             },
             csenha: {
-                required: "Confirme sua Senha *"
+                required: " * Confirme sua Senha!",
+                minlength:" * Senha Deve Ter no minimo 6 caracteres!",
+                equalTo:" * Senha não são iguais!"
             },
             robo: {
-                required: "Marque para poder continuar! *"
+                required: " * Marque para continuar!"
             },
-            email:{
-                required: "Digite o seu Email *",
-                email: "Digite um E-mail válido! *"
-            }
-        }
+            email: {
+                required: " * Digite o seu Email!",
+                email: " * Digite um E-mail válido!"
+            }},
+            errorPlacement: function(error, element){
+                $(element)
+                    .closest("form")
+                    .find("label[for='"+element.attr("id")+"']")
+                    .append(error);
+            },
+            errorElement: "span"
+    });
 
-    });
-    $(".cancel").click(function() {
-        validator.resetForm();
-    });
-});
-/////////////////VALIDAÇÃO Contato///////////
-/*$.validator.setDefaults({
-    submitHandler: function(){
-        alert("Dados preenchidos corretamente!");
-    }
-});*/
-$().ready(function() {
-    var validator=$("#formCont").validate({
-        errorPlacement: function(error, element){
-            $(element)
-                .closest("form")
-                .find("label[for='"+element.attr("id")+"']")
-                .append(error);
-        },
-        errorElement: "span",
+    $("#formCont").validate({
         rules:{
+            assunto:"required",
+            msg:"required",
+            nome:{
+                required:true,
+                minlength:2
+            },
             email:{
                 required: true, email: true
             }
         },
         messages:{
             nome: {
-                required: "Digite o seu Nome *"
+                required: " * Digite o seu Nome!",
+                minlength:" * Deve ter no minimo 2 Letras!"
             },
             assunto: {
-                required: "Digite o Assunto *"
+                required: " * Selecione o Assunto!"
             },
             msg: {
-                required: "Digite a sua Mensagem *"
+                required: " * Digite a sua Mensagem!"
             },
             email:{
-                required: "Digite o seu email *",
-                email: "Digite um E-mail válido! *"
+                required: " * Digite o seu email!",
+                email: " * Digite um E-mail válido!"
             }
-        }
-
-    });
-    $(".cancel").click(function() {
-        validator.resetForm();
+        },
+        errorPlacement: function(error, element){
+            $(element)
+                .closest("form")
+                .find("label[for='"+element.attr("id")+"']")
+                .append(error);
+        },
+        errorElement: "span"
     });
 });

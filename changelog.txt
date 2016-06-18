@@ -13,5 +13,8 @@ criado carrousel(slideshow) no index
 alguns ajustes
 
 v2.3
-modificação do arquivo header, alterado logo
-correção de erros de tamanho
+modificacao do arquivo header, alterado logo
+correcao de erros de tamanho
+
+v2.5
+correcao de validacao no cadastro e contato

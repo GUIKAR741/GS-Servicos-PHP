@@ -1,12 +1,12 @@
 <?php
-    if(isset($_POST['enviar'])):
+if(isset($_POST['enviar'])):
     echo "\n<!--Scripts-->\n<script>\n";
     echo "$(document).ready(function()
     {
         $(\"#myModal\").modal(\"show\");
     });";
     echo "\n</script>\n<!--Scripts-->\n";
-    endif;
+endif;
 ?>
 <!--Conteudo-->
 <div class="row">
@@ -18,11 +18,11 @@
                         <form action=""  method="post" id="formCont">
                             <div class="form-group">
                                 <label for="nome">Nome:</label>
-                                <input type="text" id="nome" class="form-control" name="nome" placeholder="Digite seu Nome" required>
+                                <input type="text" id="nome" class="form-control" name="nome" placeholder="Digite seu Nome">
                             </div>
                             <div class="form-group">
                                 <label for="email">E-mail:</label>
-                                <input type="text" id="email" class="form-control" name="email" placeholder="Digite seu E-mail" required>
+                                <input type="text" id="email" class="form-control" name="email" placeholder="Digite seu E-mail">
                             </div>
                             <div class="form-group">
                                 <label for="site">Web site:</label>
@@ -31,7 +31,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="assunto">Assunto:</label>
-                                <select name="assunto" id="assunto" class="form-control" required>
+                                <select name="assunto" id="assunto" class="form-control">
                                     <option value="" selected disabled>Selecione uma opção</option>
                                     <option value="servicos">Serviços</option>
                                     <option value="cursos">Cursos</option>
@@ -42,17 +42,17 @@
                             <div class="form-group">
                                 <label for="msg">Comentário:</label>
                                 <textarea class="form-control" id="msg" name="msg" cols="30" rows="5"
-                                          placeholder="Deixe um Comentário" required></textarea>
+                                          placeholder="Deixe um Comentário"></textarea>
                             </div>
                             <!-- Button trigger modal -->
                             <button
-                            <?php
+                                <?php
                                 if(isset($_POST['enviar'])):
                                     echo "type=\"button\"";
                                 else:
                                     echo "type=\"submit\"";
                                 endif;
-                            ?> name="enviar" class="btn btn-primary " >
+                                ?> name="enviar" class="btn btn-primary " >
                                 Enviar
                             </button>
                             <!-- Modal -->
@@ -67,20 +67,20 @@
                                         </div>
                                         <div class="modal-body">
                                             <?php
-                                            $mail="gs-servicos@gs-servicos.hol.es";
-                                            $nome=isset($_POST['nome'])?$_POST['nome']:"padrão";
-                                            $email=isset($_POST['email'])?$_POST['email']:"padrão";
-                                            $site=isset($_POST['site'])?$_POST['site']:"padrão";
-                                            $ass=isset($_POST['ass'])?$_POST['ass']:"padrão";
-                                            $msg=isset($_POST['msg'])?$_POST['msg']:"padrão";
-                                            $headers='Para: '.$mail.
-                                                'E-mail: '. $email .
-                                                ' Web-Site: '. $site .
-                                                ' Usuario: '. $nome .
-                                                ' X-Mailer: PHP/'.phpversion();
-                                            //mail($mail,$ass,$msg,$headers);
-                                            if(@mail($mail,$ass,$msg,$headers)):
-                                                echo "<p>Email Enviado Com Sucesso!</p> \n {$headers}";
+                                            $mail="guilhermenepomuceno46@gmail.com";
+                                            $nome=isset($_POST['nome'])?$_POST['nome']:"";
+                                            $email=isset($_POST['email'])?$_POST['email']:"";
+                                            $site=isset($_POST['site'])?$_POST['site']:"";
+                                            $ass=isset($_POST['assunto'])?$_POST['assunto']:"";
+                                            $msg=isset($_POST['msg'])?$_POST['msg']:"";
+                                            $headers='<br>Para: '.$mail.
+                                                '<br>E-mail: '. $email .
+                                                '<br>Web-Site: '. $site .
+                                                '<br>Usuario: '. $nome .
+                                                '<br>X-Mailer: PHP/'.phpversion();
+                                            $msg="<h1>$ass</h1><br>".$msg.$headers;
+                                            if(@mail($mail,$ass,$msg)):
+                                                echo "<p>Email Enviado Com Sucesso!</p>";
                                             else:
                                                 echo "<p>Erro ao Enviar</p>";
                                             endif;
